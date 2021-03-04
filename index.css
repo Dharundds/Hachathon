@@ -6,6 +6,9 @@
 }
 body {
   text-decoration: none;
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-position: 0 0;
 }
 
 #check {
